@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Aayush Timilsina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Myself+Krishna+Pokharel..&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Myself+Aayush+Timilsina..&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -71,11 +71,11 @@ Nextjs        ████████████████████░░
 <h2> Get in touch with me 👀 </h2>
  
 
-- 📧 Email: [krishnapokharel.2022@gmail.com](mailto:krishnapokharel.2022@gmail.com)
-- 💼 LinkedIn: [Krishna Pokharel](
-https://www.linkedin.com/in/krishna-pokharel-0ab832230)
-- 💼 Facebook: [Krishna Pokharel](
-https://www.facebook.com/profile.php?id=100085509233455)
+- 📧 Email: [timilsina.aayush@gmail.com](mailto:timilsina.aayush@gmail.com)
+- 💼 LinkedIn: [Aayush Timilsina](
+  https://www.linkedin.com/in/aayush-timilsina-5824b5201/)
+- 💼 Facebook: [Aayush  Timilsina](
+https://www.facebook.com/aayush.timilsina.9003)
 
 
 
