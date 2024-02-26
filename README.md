@@ -18,9 +18,9 @@
 
 - A passionate Self-taught `Full-stack developer`
 - Currently learning `Web & App Development`
-- Studying in `Xavier International College`
-- 🔭 I’m currently working with `Adsaro UK`
-- 📫 How to reach me: `krishnapokharel.2022@gmail.com`
+- Studying in `Kantipur City College`
+- 🔭 I’m currently working with `Softsaro`
+- 📫 How to reach me: `timilsina.aayush@gmail.com`
 - I’m currently learning `Computer Science` and `Software Engineering`
 - Always `learning new things`.
 
@@ -56,15 +56,15 @@ Nextjs        ████████████████████░░
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Kpokharel1122&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kpokharel1122&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=aayush12h&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayush12h&theme=react&layout=compact" />
 </p>
 <br>
 
 
 
 <div align="center">
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kpokharel1122&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush12h&theme=tokyonight" /> </div>
 </div>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
