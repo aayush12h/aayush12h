@@ -42,7 +42,7 @@
 ![Theoretically Productive](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 ![Theoretically Productive](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Theoretically Productive](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![Theoretically Productive](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=red)
 
 ```text
 HTML          ██████████████████████░░░   90.0%
